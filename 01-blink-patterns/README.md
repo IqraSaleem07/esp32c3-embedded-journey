@@ -5,7 +5,7 @@ A timed LED pattern on the ESP32-C3 Super Mini, written in plain ESP-IDF C using
 ## Hardware
 - Board: ESP32-C3 Super Mini
 - LED pin: GPIO [8] (onboard LED)
-- LED type: [active-low / active-high], based on what I observed
+- LED type: [active-high], based on what I observed
 
 ## Pattern
 | Step | State | Duration |
